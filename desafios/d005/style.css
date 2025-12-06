@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #123859, #448AA6, #6AC4D9);
+}
+
+h1 {
+    color: #F2F2F2;
+}

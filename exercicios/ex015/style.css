@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body{
+    background-color: antiquewhite;
+    color: gray;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: darkorchid;
+}
+
+p {
+    text-align: justify;
+}
